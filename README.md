@@ -406,12 +406,7 @@ Detects:
 - Users = 1000
 - Average Premium = ₹100/week = ₹1,00,000
 - Anticipated Claims = ₹60,000
-<<<<<<< HEAD
 - Profit = ₹40,000
-=======
-
-* Profit = ₹40,000
->>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 
 ---
 
