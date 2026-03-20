@@ -394,10 +394,6 @@ Detects:
 ├── docs/
 └── tests/
 ```
-├── frontend/
-├── docs/
-└── tests/
-```
 
 ---
 
