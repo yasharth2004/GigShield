@@ -133,6 +133,12 @@ This diagram illustrates the complete lifecycle from onboarding to automated cla
 
 - Weekly premium (₹50–150)
 
+## 🏗️ System Architecture Diagram
+
+The following diagram shows the high-level architecture of GigShield, including frontend, workflows, AI layer, and integrations.
+
+![GigShield Architecture](./docs/archdiag.png)
+
 ---
 
 ### B. Parametric Monitoring
