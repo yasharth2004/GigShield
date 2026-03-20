@@ -311,12 +311,8 @@ Detects:
 
 ### Backend
 
-<<<<<<< HEAD
 - Workflow Automation Engine
 - RESTful API Architecture
-=======
-- n8n (workflow automation)
->>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 
 ### AI
 
@@ -324,13 +320,8 @@ Detects:
 
 ### Database
 
-<<<<<<< HEAD
 - Document/Relational Database (MVP)
 - PostgreSQL (production)
-=======
-- n8n Data Tables (MVP)
-- PostgreSQL (future)
->>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 
 ### APIs
 
