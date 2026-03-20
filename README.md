@@ -353,7 +353,6 @@ Detects:
 
 ---
 
-<<<<<<< HEAD
 ## ⚡ Scalability Design
 
 - Event-driven workflows
@@ -363,8 +362,6 @@ Detects:
 
 ---
 
-=======
->>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 ## 📆 Development Plan
 
 ### ✅ Weeks 1–2 (Completed)
@@ -398,16 +395,14 @@ Detects:
 ```
 ├── README.md
 ├── workflows/
-<<<<<<< HEAD
 │   ├── onboarding-workflow.yaml
 │   ├── monitoring-workflow.yaml
 │   └── claims-workflow.yaml
 ├── backend/
-=======
-│ ├── onboarding.json
-│ ├── monitoring.json
-│ └── claims.json
->>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
+├── frontend/
+├── docs/
+└── tests/
+```
 ├── frontend/
 ├── docs/
 └── tests/
