@@ -105,6 +105,12 @@ GigShield can provide:
 3. Claim approval
 4. 💸 Instant payout
 
+## 🔄 End-to-End Workflow Diagram
+
+This diagram illustrates the complete lifecycle from onboarding to automated claim payout.
+
+![GigShield Workflow](./docs/workflow.png)
+
 ---
 
 ## ⚙️ System Architecture
