@@ -10,10 +10,10 @@
 
 | Role | Name | Contact |
 |------|------|----------|
-| Product Lead | [Yasharth Kesarwani] | [yasharthkesarwani24@gmail.com] |
-| Backend Engineer | [Yasharth Kesarwani] | [email/linkedin] |
-| Frontend Developer | [Vishwajeet Chauhan] | [javamihisweet100@gmail.com] |
-| AI/ML Engineer | [Sarthak Dharmik] | [sarthakdharmik10227xix@gmail.com] |
+| Product Lead | Yasharth Kesarwani | yasharthkesarwani24@gmail.com |
+| Backend Engineer | Yasharth Kesarwani | yasharthkesarwani24@gmail.com |
+| Frontend Developer | Vishwajeet Chauhan | javamihisweet100@gmail.com |
+| AI/ML Engineer | Sarthak Dharmik | sarthakdharmik10227xix@gmail.com |
 
 ---
 
@@ -311,8 +311,12 @@ Detects:
 
 ### Backend
 
+<<<<<<< HEAD
 - Workflow Automation Engine
 - RESTful API Architecture
+=======
+- n8n (workflow automation)
+>>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 
 ### AI
 
@@ -320,8 +324,13 @@ Detects:
 
 ### Database
 
+<<<<<<< HEAD
 - Document/Relational Database (MVP)
 - PostgreSQL (production)
+=======
+- n8n Data Tables (MVP)
+- PostgreSQL (future)
+>>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 
 ### APIs
 
@@ -344,6 +353,7 @@ Detects:
 
 ---
 
+<<<<<<< HEAD
 ## ⚡ Scalability Design
 
 - Event-driven workflows
@@ -353,6 +363,8 @@ Detects:
 
 ---
 
+=======
+>>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 ## 📆 Development Plan
 
 ### ✅ Weeks 1–2 (Completed)
@@ -386,10 +398,16 @@ Detects:
 ```
 ├── README.md
 ├── workflows/
+<<<<<<< HEAD
 │   ├── onboarding-workflow.yaml
 │   ├── monitoring-workflow.yaml
 │   └── claims-workflow.yaml
 ├── backend/
+=======
+│ ├── onboarding.json
+│ ├── monitoring.json
+│ └── claims.json
+>>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 ├── frontend/
 ├── docs/
 └── tests/
@@ -402,7 +420,12 @@ Detects:
 - Users = 1000
 - Average Premium = ₹100/week = ₹1,00,000
 - Anticipated Claims = ₹60,000
+<<<<<<< HEAD
 - Profit = ₹40,000
+=======
+
+* Profit = ₹40,000
+>>>>>>> 9e0e7b5709d6f3991cac836645340a66b5147d97
 
 ---
 
